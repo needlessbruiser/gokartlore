@@ -26,4 +26,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## More Information
 - Webview URL: [Go Kart Lore](https://gokartlore.com/).
 
-© 2023 Lunchtime Results
+© 2023 Go Kart Lore
